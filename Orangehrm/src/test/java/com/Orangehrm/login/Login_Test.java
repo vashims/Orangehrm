@@ -32,6 +32,7 @@ public class Login_Test {
 		Login.click();
 		System.out.println("clicked on Login Button");
 		System.out.println("User Login Successfully");
+		System.out.println("Hello");
   }
   @Test(priority = 2,description = "Click on My Info")
   public void ClickonMyInfo() throws Exception {
